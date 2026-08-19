@@ -1,0 +1,10 @@
+{
+  "description": "Just a website for detailing the game development projects of Lua",
+  "owner": {
+    "username": "Noahsilver",
+    "email": "Noah@colemans.me",
+  },
+   "records": {
+        "CNAME": "Noahsilver64.github.io"
+    }
+}
